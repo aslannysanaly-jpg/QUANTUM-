@@ -1,0 +1,11 @@
+Model Information:
+* title:	hub spike prime
+* source:	https://sketchfab.com/3d-models/hub-spike-prime-4724ddad975542e8820cd6606433f8d0
+* author:	gabca25 (https://sketchfab.com/gabca25)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hub spike prime" (https://sketchfab.com/3d-models/hub-spike-prime-4724ddad975542e8820cd6606433f8d0) by gabca25 (https://sketchfab.com/gabca25) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
